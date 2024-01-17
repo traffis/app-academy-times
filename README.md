@@ -1,3 +1,16 @@
+# About
+
+This project is from the App Academy Open free curriculum, and is similar to a
+news site. I had to utilize Gridbox to place the elements in the correct locations
+and make the site responsive. All of my work was done in the `index.html` and
+files in the `/stylesheets/components` folder.
+
+Reflection: The site is pretty simple and it did take me a while to complete.
+Utilizing Gridbox made laying out the components of the site pretty easy, though
+it did take me some time to align and space some parts of them. I'll definitely
+start to use the "Grid" more often as I develop sites/components, especially
+when I start using CSS Frameworks.
+
 # Long Practice: Responsive Design - The App Academy Times
 
 It's now time to use the responsive design content that you've learned this week
